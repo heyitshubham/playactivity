@@ -1,6 +1,8 @@
 # playactivity
 fork a repo <br>
-clone it
+1. Clone it
+2. Make some upgardation or changes.
+3. Pull the request
 <br>
 
 <br>
